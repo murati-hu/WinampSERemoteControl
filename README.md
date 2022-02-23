@@ -23,7 +23,8 @@ on your Media Player.
     - Medium res -  [`./src/hid/B/Winamp GHRC.hid`](./src/hid/B/)
     - High res -  [`./src/hid/C/Winamp GHRC.hid`](./src/hid/C/)
 
-For compiled binaries, please check the assets under [Github releases](./releases).
+For compiled binaries, please check the assets under
+[Github releases](https://github.com/murati-hu/WinampSERemoteControl/releases).
 
 ## Docs
 Read more about the usage and instructions from my the original
