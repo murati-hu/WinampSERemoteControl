@@ -29,5 +29,5 @@ For compiled binaries, please check the assets under
 ## Docs
 Read more about the usage and instructions from my the original
 blog announcement under
-[`docs/README_HU.md`](./docs/README.md) from 2006 in Hungarian.
+[`docs/README.md`](./docs/README.md) from 2006 in Hungarian.
 
