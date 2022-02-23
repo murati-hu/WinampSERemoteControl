@@ -3,6 +3,8 @@
 Nem csalás, nem ámítás! Igen, lehetséges szeretett Winampunk távirányítása
 bluetooth képes Sony-Ericsson mobiltelefonunkal!
 
+![Sony Ericcson Winamp Remote Control](./images/k750.jpg)
+
 Próbáld ki ezt az általam készített kis csomagot, töltsd fel mobilodra
 és vezéreld a Lámát akár a konyhából is!
 
@@ -46,10 +48,14 @@ A beállításhoz indítsuk el a Winampot,
  4) Restore defaults gombra.
  5) Végül bezárhatjuk ablakunkat és távirányítónk máris működőképes.
 
+ ![Winamp Help](./images/winamp_help.jpg)
+
 Amennyiben a telepítővel valamilyen oknál fogva nem tudtuk átküldeni a távirányítót, abban az esetben, próbáljuk meg kézzel átküldeni mobilunkraÉ
  1) Kattintsuk a Start Menü/Minden Program menüpontjára, ott keressük ki a Winamp távirányító mappáját, majd
  2) Jobb klikkel a `Winamp GHRC.hid` fájlra kattintva
  3) válasszuk a Küldés menün belül a BlueTooth-eszköz pontot.
  4) Eztán a varázsló segítségével küldjük át programunkat moblunkra.
+
+ ![Bluetoooth Share Help](./images/send_help.png)
 
 A Mobiltelefonon a telepített alkalmazást vagy a **Szórakozás** vagy a **Bluetooth** menüpont alatt találjuk meg a távvezérlő elindításával.

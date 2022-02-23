@@ -10,7 +10,7 @@
 
   Name $(CIM)
   OutFile "winamp_ghrc_setup.exe"
-  BrandingText "Copyright Muráti Ákos, 2007 - http://www.murati.hu"
+  BrandingText "Copyright Muráti Ákos, 2007 - https://www.murati.hu"
 
   ;Default installation folder
   InstallDir "$SMPROGRAMS\$(RCIM)\"
@@ -133,9 +133,9 @@ SectionGroupEnd
   LangString TAVIRANYITO ${LANG_HUNGARIAN} "Távirányító"
   LangString TELEPITES ${LANG_HUNGARIAN} "Telepítés a telefonra"
   
-  LangString SEC_A ${LANG_HUNGARIAN} "128x160-as kijelz?höz"
-  LangString SEC_B ${LANG_HUNGARIAN} "176x220-as kijelz?höz"
-  LangString SEC_C ${LANG_HUNGARIAN} "240x320-as kijelz?höz"
+  LangString SEC_A ${LANG_HUNGARIAN} "128x160-as kijelzõhöz"
+  LangString SEC_B ${LANG_HUNGARIAN} "176x220-as kijelzõhöz"
+  LangString SEC_C ${LANG_HUNGARIAN} "240x320-as kijelzõhöz"
   
   LangString SEC_NONE ${LANG_HUNGARIAN} "Nincs telepítés - Kézi telepítés"
   LangString SEC_BTS ${LANG_HUNGARIAN} "Bluetoothon keresztül"
@@ -145,11 +145,11 @@ SectionGroupEnd
   LangString DESC_SecPB ${LANG_HUNGARIAN} "Távirányító telepítése Sony-Ericsson Z550, K600, W600, K610, Z610, K618, K700, W700, K750, D750, W810 mobilokhoz"
   LangString DESC_SecPC ${LANG_HUNGARIAN} "Távirányító telepítése Sony-Ericsson S700, K790, K800, W850, W900 mobilokhoz"
   
-  LangString DESC_SecPNONE ${LANG_HUNGARIAN} "A telepít? nem fogja feltelepíteni a fájlokat, manuálisan kell telepíteni azokat."
+  LangString DESC_SecPNONE ${LANG_HUNGARIAN} "A telepítõ nem fogja feltelepíteni a fájlokat, manuálisan kell telepíteni azokat."
   LangString DESC_SecPBTS ${LANG_HUNGARIAN} "Megpróbálja a fájlokat Bluetooth kapcsolaton keresztül átküldeni a mobilnak."
   LangString DESC_SecPIRS ${LANG_HUNGARIAN} "Megpróbálja a fájlokat Infra kapcsolaton keresztül átküldeni a mobilnak."
   
-  LangString WARN ${LANG_HUNGARIAN} "Kérem gy?z?djön meg róla, hogy számítógépe és mobiltelefonja kapcsolódott egymáshoz. Most megpróbálom telepíteni a fájlokat "
+  LangString WARN ${LANG_HUNGARIAN} "Kérem gyõzõdjön meg róla, hogy számítógépe és mobiltelefonja kapcsolódott egymáshoz. Most megpróbálom telepíteni a fájlokat "
 
  
   ;Assign descriptions to sections
