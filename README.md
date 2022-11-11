@@ -15,6 +15,7 @@ on your Media Player.
 ## Requirements
  - Nullsoft Scriptable Install System - https://sourceforge.net/projects/nsis/ 
  - Bluetooth HID Capable Sony Ericsson mobile
+ - For Development - [SE Bluetooth Remote Control](https://web.archive.org/web/20050813003510/http://developer.sonyericsson.com/site/global/docstools/misc/p_misc.jsp) 
 
 ## Files and Folders
 - `setup` - Latest NSI projectfor the setup.exe
